@@ -1,0 +1,35 @@
+h1{
+    background-color: blue;
+    text-align: left;
+}
+.gn{
+    background-color: chartreuse;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+g{
+    color: #fff000;
+}
+.p{
+    color: #ff000f;
+}
+.nj{
+    text-align: left;
+    text-emphasis: #f00ff0;
+}
+button{
+    color: darkblue;
+    float: right;
+}
+.inp{
+    color: #00ff0f;
+}
+.ol{
+    text-emphasis: center;
+    color: darkorange;
+}
+img{
+    width: 250px;
+    height: 240pt;
+    float: center;
+}
